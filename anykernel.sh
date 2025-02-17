@@ -4,13 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=KernelSU With SUSFS by TheWildJames
-do.devicecheck=0
+kernel.string=KernelSU With SUSFS by Rindaman5555
+do.devicecheck=1
 do.modules=0
-do.systemless=0
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
+device.name1=fire
 device.name2=
 device.name3=
 device.name4=
