@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=KernelSU With by MockGPS
+kernel.string=KernelSU Phoenix by MockGPS
 do.devicecheck=1
 do.modules=0
 do.systemless=1
